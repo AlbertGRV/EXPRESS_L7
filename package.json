@@ -1,0 +1,14 @@
+{
+    "name": "travel-agency-api",
+    "version": "1.0.0",
+    "description": "REST API для турагенства",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "dotenv": "^16.0.3",
+      "uuid": "^9.0.0"
+    }
+  }
